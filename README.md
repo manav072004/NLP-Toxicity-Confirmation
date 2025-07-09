@@ -1,5 +1,3 @@
-# CSE 143 Project Fall 2024 - Albert, Tanishq, and Manav
-
 For data files, please go to https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification/data and extract the data file. The train.csv and test.csv should be located at the same directory as the .ipynb files.
 For the GloVe file for embedding, go to https://nlp.stanford.edu/projects/glove/ and extract the data file called "glove.6B.zip". The folder called "glove.6b" should be in the same directory as the .ipynb files.
 
